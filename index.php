@@ -8,5 +8,6 @@
 <body>
     <h1>Hello World!</h1>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo quam cumque eligendi assumenda nesciunt animi asperiores fugit, ipsum nulla harum? Voluptate recusandae omnis, quod culpa et qui est impedit quam.</p>
+    <p>Paragraf kedua</p>
 </body>
 </html>
